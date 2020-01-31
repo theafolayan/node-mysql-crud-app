@@ -2,7 +2,7 @@
   "name": "mysql-crud-app",
   "version": "1.0.0",
   "description": "'an app to help you add players info to a database and also display their details from the database. You can also delete and edit player details'",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
