@@ -1,0 +1,32 @@
+{
+  "name": "mysql-crud-app",
+  "version": "1.0.0",
+  "description": "'an app to help you add players info to a database and also display their details from the database. You can also delete and edit player details'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theafolayan/node-mysql-crud-app.git"
+  },
+  "keywords": [
+    "node",
+    "crud",
+    "mysql"
+  ],
+  "author": "theafolayan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theafolayan/node-mysql-crud-app/issues"
+  },
+  "homepage": "https://github.com/theafolayan/node-mysql-crud-app#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.6",
+    "mysql": "^2.18.1",
+    "req-flash": "0.0.3"
+  }
+}
